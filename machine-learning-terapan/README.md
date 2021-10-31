@@ -13,12 +13,3 @@ Di akhir kelas, siswa dapat memahami tentang system design dalam machine learnin
 7. Memahami tentang teknik deteksi objek dan memahami bagaimana membuat model machine learning untuk Object Detection dan Object Counting. 
 8. Mampu membuat model Object Counting dengan pendekatan TensorFlow Hub, R-CNN, dan YOLO.
 9. Paham mengenai metode yang digunakan dalam Sistem Rekomendasi serta mampu membuat proyek sistem rekomendasi dengan machine learning.
-
-
-#### Final Submission
-Berikut hasil plot metrik evaluasi RMSE dengan matplotlib pada Final Submission
-![index2](https://user-images.githubusercontent.com/68630117/138746548-77f4cf72-badd-46fe-a65e-045a9cd1f198.png)
-
-
-Berikut hasil rekomendasi pada Final Submission
-![result](https://user-images.githubusercontent.com/68630117/139271021-0fafa2d6-3586-4382-bef1-20b69b95117c.JPG)
