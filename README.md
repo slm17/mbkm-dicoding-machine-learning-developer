@@ -7,4 +7,4 @@ Kesempatan belajar pada _Learning Path_ ini di peroleh dari program **Merdeka Be
 ## Submission
 - [Belajar Machine Learning untuk Pemula →](https://github.com/slm17/mbkm-dicoding-machine-learning-developer/tree/main/belajar-machine-learning-untuk-pemula/rock-paper-scissors)
 - [Belajar Pengembangan Machine Learning →](https://github.com/slm17/mbkm-dicoding-machine-learning-developer/tree/main/belajar-pengembangan-machine-learning)
-- [Machine Learning Terapan→]()
+- [Machine Learning Terapan→](https://github.com/slm17/mbkm-dicoding-machine-learning-developer/tree/main/machine-learning-terapan)
