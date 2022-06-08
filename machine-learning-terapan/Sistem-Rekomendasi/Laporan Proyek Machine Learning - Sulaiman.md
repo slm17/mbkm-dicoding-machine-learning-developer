@@ -63,8 +63,5 @@ Model yang di buat adalah model dengan metode pendekatan Collaborative Filtering
 ## Evaluation
 Metrik yang digunakan pada Rekomendasi ini adalah (RMSE) Root Mean Square Error , merupakan besarnya tingkat kesalahan hasil prediksi, dimana semakin kecil (mendekati 0) nilai RMSE maka hasil prediksi akan semakin akurat. Root Mean Square Error digunakan dalam analisis perbandingan data lapangan dengan data hasil proses yang diolah untuk mengetahui tingkat kesalahan yang terjadi. RMSE merupakan nilai rata-rata dari jumlah kuadrat kesalahan atau jumlah kuadrat dari nilai prakiraan dan observasi. Dari proses ini, memperoleh nilai error akhir sebesar sekitar 0.17 dan error pada data validasi sebesar 0.20.
 
-Berikut hasil plot metrik evaluasi RMSE dengan matplotlib.
-
-![model metrics](https://user-images.githubusercontent.com/68630117/139597570-419a0ff4-a8c4-4ee8-9c13-f0ea07d6c098.png)
 
 
